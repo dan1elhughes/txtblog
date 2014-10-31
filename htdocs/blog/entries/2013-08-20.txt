@@ -1,0 +1,4 @@
+This is not a real blog
+This is merely a design idea filled with junk. I'll probably put it live soon though, I quite like it. If you have ideas or comments, I'd love you to <a href="http://xes.io/contact">get in touch</a>.
+Also: this is not WordPress. I'm building this entirely from scratch in PHP.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mollis libero at diam volutpat, ac placerat nisi euismod. Suspendisse vestibulum a nisl eget ultrices. Donec interdum quam vel lacinia faucibus. Sed quis arcu varius, elementum neque vitae, dictum urna. Ut et ante gravida, feugiat diam a, laoreet libero. Pellentesque eleifend purus sit amet nisl porta hendrerit. Sed metus est, gravida sed gravida a, sollicitudin a erat.
